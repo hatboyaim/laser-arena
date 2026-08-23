@@ -1,8 +1,7 @@
 {
-  "name": "laser-arena",
+  "name": "laser-arena-first-person",
   "version": "1.0.0",
-  "description": "3D multiplayer spaceship PvP game",
-  "main": "server.js",
+  "description": "First-person Laser Arena",
   "scripts": {
     "start": "node server.js"
   },
