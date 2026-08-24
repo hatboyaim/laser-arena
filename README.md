@@ -1,1 +1,0 @@
-First-person LASER ARENA. Run npm install, then npm start.
